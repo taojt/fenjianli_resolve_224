@@ -1,0 +1,27 @@
+FenjianliThread            : INFO     初始化配置变量信息
+FenjianliThread            : INFO     初始化配置完成
+FenjianliThread            : INFO     开始启动程序 时间区间为 2016-01-20 12:00:00 -- 2016-01-20 20:00:00  
+FenjianliThread            : INFO     当前导入简历的爬取时间区间为 1453262400000 -- 1453291200000
+FenjianliThread            : INFO     当前时间段内查找到的简历条数是：113071
+FenjianliThread            : INFO     完成导入 1000 条数据，一共耗时 4 秒 ！
+FenjianliThread            : INFO     完成导入 2000 条数据，一共耗时 9 秒 ！
+FenjianliThread            : INFO     完成导入 3000 条数据，一共耗时 13 秒 ！
+FenjianliThread            : INFO     完成导入 4000 条数据，一共耗时 17 秒 ！
+FenjianliThread            : INFO     完成导入 5000 条数据，一共耗时 24 秒 ！
+FenjianliThread            : INFO     完成导入 6000 条数据，一共耗时 29 秒 ！
+FenjianliThread            : INFO     初始化配置变量信息
+FenjianliThread            : INFO     初始化配置完成
+FenjianliThread            : INFO     开始启动程序 时间区间为 2000-01-20 12:00:00 -- 2016-01-22 12:00:00  
+FenjianliThread            : INFO     当前导入简历的爬取时间区间为 948340800000 -- 1453435200000
+FenjianliThread            : INFO     当前时间段内查找到的简历条数是：1671596
+FenjianliThread            : INFO     完成导入 1000 条数据，一共耗时 5 秒 ！
+FenjianliThread            : INFO     完成导入 2000 条数据，一共耗时 9 秒 ！
+FenjianliThread            : INFO     完成导入 3000 条数据，一共耗时 15 秒 ！
+FenjianliThread            : INFO     初始化配置变量信息
+FenjianliThread            : INFO     初始化配置完成
+FenjianliThread            : INFO     开始启动程序 时间区间为 2000-01-20 12:00:00 -- 2016-01-22 12:00:00  
+FenjianliThread            : INFO     当前导入简历的爬取时间区间为 948340800000 -- 1453435200000
+FenjianliThread            : INFO     当前时间段内查找到的简历条数是：1671596
+FenjianliThread            : INFO     完成导入 1000 条数据，一共耗时 5 秒 ！
+FenjianliThread            : INFO     完成导入 2000 条数据，一共耗时 13 秒 ！
+FenjianliThread            : INFO     完成导入 3000 条数据，一共耗时 22 秒 ！
